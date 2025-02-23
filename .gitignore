@@ -1,0 +1,14 @@
+/raw_files/
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/data/raw/survey/results_25_06.sav
+/.idea/.gitignore
+/desktop.ini
+/.idea/ics_paper_2.iml
+/data/wrangled/df_clean_merged.csv
+/data/manual_classification/raw/Classification of Qualitative Answers - Sheet1 (1).csv
+/data/manual_classification/for_merge/classification.csv
+/data/to_check/institutions_didnt_submit_to_uoa.csv
